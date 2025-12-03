@@ -33,6 +33,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/tasks
 
 JWT_SECRET=your_secret
 JWT_EXPIRES_IN=7d
+RESEND_API_KEY=
 ```
 
 ### 3. Setup SQL
